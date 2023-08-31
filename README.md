@@ -13,7 +13,7 @@
 [3, 7, 23, 12] -> 19
 [-4, -6, 89, 6] -> 0
 #### Решение:
-![36](https://github.com/VyacheslavChik22/HomeworkGB_C_005/assets/99678206/96d5c7bf-8c17-4520-b989-8436a7e03efe)
+![36](https://github.com/VyacheslavChik22/HomeworkGB_C_005/assets/99678206/b6d8dbb5-e7e6-46b0-816a-d3a88658e959)
 
 ### Задача № 38
 #### Условие:
